@@ -26,14 +26,6 @@
 
 ---
 
-### 🌐 4. Flask Web App  
-[📌 Repo Link](https://github.com/username/web-app) *(Update username if needed)*  
-- Built a **Flask-based web application** with **PostgreSQL integration**.  
-- Developed **user authentication, session management, and REST APIs**.  
-- Implemented **secure login mechanisms** and **data persistence**.  
-
----
-
 ## ⚙️ Technologies Used  
 - **Programming**: Python, SQL, Flask  
 - **Cybersecurity**: Hashcat, Maskprocessor  
