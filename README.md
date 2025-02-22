@@ -19,7 +19,7 @@
 ---
 
 ### 🌐 4. SQL Library
-[📌 Repo Link](https://github.com/username/sqlLib) *(Update username if needed)*  
+[📌 Repo Link](https://github.com/nateci/sqlLib) *(Update username if needed)*  
 - Built a **Flask-based web application** with **PostgreSQL integration**.  
 - Developed **user authentication, session management, and REST APIs**.  
 - Implemented **secure login mechanisms** and **data persistence**.  
