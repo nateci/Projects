@@ -1,18 +1,44 @@
-# My Portfolio
+# 💼 My Portfolio  
 
-## Projects
+## 🚀 Projects  
 
-### 1. Cybersecurity Hash Cracking
-[Repo Link](https://github.com/nateci/passwordgen)
-- Used Hashcat to crack password hashes.
-- Implemented rule-based attacks and custom scripts.
+### 🔐 1. Password Strength Visualizer & Generator  
+[📌 Repo Link](https://github.com/nateci/passwordgen)  
+- Developed a **password strength evaluation tool** using entropy calculations.  
+- Detects **weaknesses** in passwords and suggests **stronger alternatives**.  
+- Built with **Tkinter for GUI**, **regex for pattern analysis**, and **randomization for secure generation**.  
 
-### 2. Graph Algorithms & Shortest Paths
-[Repo Link](https://github.com/nateci/quantmodel)
-- Implemented Dijkstra's and A* algorithms.
-- Optimized performance with Fibonacci heaps.
+---
 
-### 3. Flask Web App
-[Repo Link](https://github.com/username/web-app)
-- Built a Flask-based web application.
-- Integrated a PostgreSQL database and user authentication.
+### 📈 2. Auto Stock Trader (QuantModel)  
+[📌 Repo Link](https://github.com/nateci/quantmodel)  
+- Simulates **automated stock trading** based on risk levels.  
+- Fetches **real stock data** from `yfinance` and applies **trend-based predictions**.  
+- Built a **Tkinter-based UI** for easy simulation and **visualized growth trends** with `matplotlib`.  
+
+---
+
+### 🛡️ 3. Cybersecurity Hash Cracking  
+[📌 Repo Link](https://github.com/nateci/cybersecurity-cracking) *(Update link if needed)*  
+- Used **Hashcat** to crack encrypted password hashes.  
+- Implemented **mask attacks, rule-based attacks, and brute force methods**.  
+- Built **custom scripts** for **efficient dictionary-based attacks**.  
+
+---
+
+### 🌐 4. Flask Web App  
+[📌 Repo Link](https://github.com/username/web-app) *(Update username if needed)*  
+- Built a **Flask-based web application** with **PostgreSQL integration**.  
+- Developed **user authentication, session management, and REST APIs**.  
+- Implemented **secure login mechanisms** and **data persistence**.  
+
+---
+
+## ⚙️ Technologies Used  
+- **Programming**: Python, SQL, Flask  
+- **Cybersecurity**: Hashcat, Maskprocessor  
+- **Stock Trading**: `yfinance`, `matplotlib`, `numpy`  
+- **GUI Development**: Tkinter  
+
+### ⭐ Interested?  
+Feel free to check out the repositories and **contribute**!  
