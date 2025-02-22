@@ -18,11 +18,11 @@
 
 ---
 
-### 🛡️ 3. Cybersecurity Hash Cracking  
-[📌 Repo Link](https://github.com/nateci/cybersecurity-cracking) *(Update link if needed)*  
-- Used **Hashcat** to crack encrypted password hashes.  
-- Implemented **mask attacks, rule-based attacks, and brute force methods**.  
-- Built **custom scripts** for **efficient dictionary-based attacks**.  
+### 🌐 4. SQL Library
+[📌 Repo Link](https://github.com/username/sqlLib) *(Update username if needed)*  
+- Built a **Flask-based web application** with **PostgreSQL integration**.  
+- Developed **user authentication, session management, and REST APIs**.  
+- Implemented **secure login mechanisms** and **data persistence**.  
 
 ---
 
