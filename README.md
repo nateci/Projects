@@ -27,7 +27,7 @@
 ---
 
 ### 🚀 4. LAUNCHPAD Web Development Platform  
-[📌 Repo Link](https://github.com/nateci/launchpad)  
+[📌 Repo Link](https://github.com/Northeastern-Electric-Racing-Launchpad/web-dev-launchpad-spring-2025-nateci)
 - A **full-stack portfolio management platform** using **TypeScript, React, and Express**.  
 - Enables users to **create, update, and showcase projects and experiences** dynamically.  
 - Integrates **file uploads with Multer**, **Prisma ORM** for database interactions, and **Vitest** for testing.  
